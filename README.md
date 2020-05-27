@@ -1,4 +1,4 @@
-# Diffraction_Spike_removal
+# Diffraction Spike Removal
 Use Radon transform to remove diffraction spikes in a telescope image
 
 For a full discussion, visit : https://erellaz.com/diffraction-spike-attenuation/ 
