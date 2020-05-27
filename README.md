@@ -8,7 +8,7 @@ For a full discussion, visit : https://erellaz.com/diffraction-spike-attenuation
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>The linear events (diffraction patterns) and the signal are disjoint (map in different areas of the Radon plane)</li><li>The linear events (diffraction patterns) is collapsed (concentrated in a small area of the Radon plane). So now the diffraction can be muted (masked) without damaging the data.</li></ul>
+<ul><li>The linear events (diffraction patterns) and the signal are disjoint (map in different areas of the Radon plane)</li><li>The linear events (diffraction patterns) are collapsed (concentrated in a small area of the Radon plane). So now the diffraction can be muted (masked) without damaging the data.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
