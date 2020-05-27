@@ -3,6 +3,8 @@ Use Radon transform to remove diffraction spikes in a telescope image
 
 For a full discussion, visit : https://erellaz.com/diffraction-spike-attenuation/ 
 
+![Diffraction spike removal example](DiffractionSpikeAttenuation.jpg)
+
 <!-- wp:paragraph -->
 <p>The linear Radon transform is a well established integral transform which maps the space (x, y) domain into a new domain, the radon domain (tau, p).<br>See Wikipedia: Radon transform, Hough transform, Sonogram, Tau p transform.<br>The Radon transform collapses (focuses) linear events into points.<br>After Radon transform:</p>
 <!-- /wp:paragraph -->
